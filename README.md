@@ -18,6 +18,7 @@ This is the central hub where I document my complete journey of mastering **Java
 ### 🗓️ Week 1: Java Core Basics
 - **Day 1:** Successfully set up the Java development environment, understood the core basics, and deployed my first 'Hello World' program in `basic.java`. Also explored the fundamental usage of the `Scanner` class for taking user input.
 
+- **Day 2:** Implemented user input handling with the `Scanner` class and built a custom Bio Data Fetcher And Marks && Percentage calculator.
 
 ---
 
