@@ -1,25 +1,32 @@
-# BCA Java Backend Journey
+# 🚀 BCA Java Backend Journey
 
 Welcome to my repository! 👋 
 
-This is the central hub where I document my complete journey of mastering **Java** and building a rock-solid foundation for **Backend Development**
+This is the central hub where I document my complete journey of mastering **Java** to build a rock-solid foundation for **Backend Development**.
 
 ---
 
-##  What's in this Repository?
--  **Core Java Concepts:** From absolute basics to OOPs.
--  **Daily Code Commits:** My proof of daily work and consistency.
--  **Project Solutions:** Real-world problem solving and mini-projects.
+## 📌 Repository Overview
+- ☕ **Core Java Concepts:** From absolute programming basics to advanced logic.
+- 💻 **Milestone-Based Commits:** Clean, well-structured, and verified code files.
+- 🛠️ **Real-World Problem Solving:** Custom calculators, data formatters, and logic engines.
+
+## 🎯 Career Goals
+1. Graduate from BCA with a deep grasp of backend logic and software engineering principles.
+2. Gain 3-4 years of hands-on experience as a **Backend Developer** in the tech industry.
 
 ---
 
-## 📈 Daily Progress Log
+## 📚 Chapter-wise Learning Log
 
-### 🗓️ Week 1: Java Core Basics
-- **Day 1:** Successfully set up the Java development environment, understood the core basics, and deployed my first 'Hello World' program in `basic.java`. Also explored the fundamental usage of the `Scanner` class for taking user input.
+### 🗓️ Chapters 1 to 3: Java Core Basics & Strings
+- **Environment Setup:** Successfully configured the Java Development Kit (JDK) and workspace settings.
+- **User Input & Data Processing:** Built `BioDataFetcher.java` and `CbseCalculator.java` utilizing the `Scanner` class to handle dynamic inputs.
+- **String Formatter:** Mastered string-handling methods and clean formatting using escape sequences.
 
-- **Day 2:** Implemented user input handling with the `Scanner` class and built a custom Bio Data Fetcher And Marks && Percentage calculator.
+### 🗓️ Chapter 4: Conditional Statements *(Latest Update!)*
+- **Decision-Making Logic:** Advanced from simple code execution to conditional branching using `if-else` and logical operators.
+- **Basic Practice:** Developed `DrivingLicenseChecker.java` to test basic relational conditions and control flows.
 
 ---
-
-*“Consistency is the key. Let's build the future, one commit at a time!”* 
+*“Consistency is the key. Let's build the future, one clean commit at a time!”* 
