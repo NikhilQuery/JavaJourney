@@ -13,5 +13,5 @@ public class BioDataFetcher {
         System.out.println("\nHey " + name + "," + "you are " + age + " years old and you study at " + college + ".");
         System.out.print("Welcome Aboard!");
         sc.close();
-     }  
+    }  
 }
