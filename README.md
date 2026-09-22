@@ -33,6 +33,7 @@ This is the central hub where I document my complete journey of mastering **Java
 ### 🗓️ Chapter 5: Loop Control Structures *(Latest Update!)*
 - **Advanced Practice:** Independently designed a complete `AtmEngine.java` using dual `while(true)` loops, `break`, `continue`, and `return` mechanisms for secure banking operations.
 - **CapStone Project:** Developed a robust `InventorySystem.java` managing live stocks, state revenue accumulation, and error attempt traps.
+- **Advanced Control Practice:** Coded a secure `TollBoothEngine.java` to track multi-vehicle data and handle illegal entry exceptions via continue statement.
 
 ------------------------------------------------------------------------------------------------------
 
