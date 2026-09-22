@@ -28,7 +28,7 @@ This is the central hub where I document my complete journey of mastering **Java
 - **Decision-Making Logic:** Advanced from simple code execution to conditional branching using `if-else` and logical operators.
 - **Basic Logic Practice:** Developed `DrivingLicenseChecker.java` to test basic relational conditions and control flows.
 - **Medium Logic Practice:** Refactored `MarksCalculator.java` using return statements and logic gates for input validation.
-- **Advanced Logic Practice:** Successfully cracked the complex differential logic for a multi-slab income evaluation by building `TaxCalculator.java`.
+- **Logic Practice:** Successfully cracked the complex differential logic for a multi-slab income evaluation by building `TaxCalculator.java`.
 
 ### 🗓️ Chapter 5: Loop Control Structures *(Latest Update!)*
 - **Advanced Practice:** Independently designed a complete `AtmEngine.java` using dual `while(true)` loops, `break`, `continue`, and `return` mechanisms for secure banking operations.
