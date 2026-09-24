@@ -37,6 +37,7 @@ This is the central hub where I document my complete journey of mastering **Java
 
 ### 🗓️ Chapter 6: Arrays in Java *(Latest Update!)*
 - **2D Array Practice:** Created `MatrixAddition.java` to perform element-wise addition of two-dimensional matrices using nested loops.
+- **Array Manipulation:** Developed `ArrayReverse.java` to invert elements in-place using an efficient two-pointer swapping algorithm
 ------------------------------------------------------------------------------------------------------
 
 *“Consistency is the key. Let's build the future, one clean commit at a time!”* 
