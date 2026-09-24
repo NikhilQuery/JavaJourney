@@ -30,11 +30,13 @@ This is the central hub where I document my complete journey of mastering **Java
 - **Medium Logic Practice:** Refactored `MarksCalculator.java` using return statements and logic gates for input validation.
 - **Logic Practice:** Successfully cracked the complex differential logic for a multi-slab income evaluation by building `TaxCalculator.java`.
 
-### 🗓️ Chapter 5: Loop Control Structures *(Latest Update!)*
+### 🗓️ Chapter 5: Loop Control Structures 
 - **Advanced Practice:** Independently designed a complete `AtmEngine.java` using dual `while(true)` loops, `break`, `continue`, and `return` mechanisms for secure banking operations.
 - **CapStone Project:** Developed a robust `InventorySystem.java` managing live stocks, state revenue accumulation, and error attempt traps.
 - **Advanced Control Practice:** Coded a secure `TollBoothEngine.java` to track multi-vehicle data and handle illegal entry exceptions via continue statement.
 
+### 🗓️ Chapter 6: Arrays in Java *(Latest Update!)*
+- **2D Array Practice:** Created `MatrixAddition.java` to perform element-wise addition of two-dimensional matrices using nested loops.
 ------------------------------------------------------------------------------------------------------
 
 *“Consistency is the key. Let's build the future, one clean commit at a time!”* 
