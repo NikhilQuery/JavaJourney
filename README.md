@@ -35,9 +35,15 @@ This is the central hub where I document my complete journey of mastering **Java
 - **CapStone Project:** Developed a robust `InventorySystem.java` managing live stocks, state revenue accumulation, and error attempt traps.
 - **Advanced Control Practice:** Coded a secure `TollBoothEngine.java` to track multi-vehicle data and handle illegal entry exceptions via continue statement.
 
-### 🗓️ Chapter 6: Arrays in Java *(Latest Update!)*
+### 🗓️ Chapter 6: Arrays in Java 
 - **2D Array Practice:** Created `MatrixAddition.java` to perform element-wise addition of two-dimensional matrices using nested loops.
 - **Array Manipulation:** Developed `ArrayReverse.java` to invert elements in-place using an efficient two-pointer swapping algorithm
-------------------------------------------------------------------------------------------------------
+
+### 📑 Chapter 7: Methods in Java *(Latest Update!)*
+* **Modular Logic:** Created `SmartCalculator.java` to isolate individual arithmetic behaviors into separate instance methods.
+* **Menu-Driven Design:** Implemented a runtime execution menu using switch/if-else choices to call modular subroutines.
+* **Code Reusability:** Applied the DRY (Don't Repeat Yourself) principle to keep the main execution layer clean and decoupled.
+
+--------------------------------------------------------------------------------------------
 
 *“Consistency is the key. Let's build the future, one clean commit at a time!”* 
