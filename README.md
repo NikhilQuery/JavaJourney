@@ -43,6 +43,7 @@ This is the central hub where I document my complete journey of mastering **Java
 * **Modular Logic:** Created `SmartCalculator.java` to isolate individual arithmetic behaviors into separate instance methods.
 * **Menu-Driven Design:** Implemented a runtime execution menu using switch/if-else choices to call modular subroutines.
 * **Code Reusability:** Applied the DRY (Don't Repeat Yourself) principle to keep the main execution layer clean and decoupled.
+* **Advanced Logic Consolidation:** Engineered `UltimateCalculator.java` combining method overloading, variable arguments (VarArgs), recursion, and static memory allocations inside a single menu-driven platform.
 
 --------------------------------------------------------------------------------------------
 
