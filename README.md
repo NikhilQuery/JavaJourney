@@ -44,6 +44,7 @@ This is the central hub where I document my complete journey of mastering **Java
 * **Menu-Driven Design:** Implemented a runtime execution menu using switch/if-else choices to call modular subroutines.
 * **Code Reusability:** Applied the DRY (Don't Repeat Yourself) principle to keep the main execution layer clean and decoupled.
 * **Advanced Logic Consolidation:** Engineered `UltimateCalculator.java` combining method overloading, variable arguments (VarArgs), recursion, and static memory allocations inside a single menu-driven platform.
+* **Method Practice Set (`MethodPracticeSet.java`):** Solved 5 core problems covering multiplication tables, nested-loop star patterns, and recursive Fibonacci/summation logic.
 
 --------------------------------------------------------------------------------------------
 
