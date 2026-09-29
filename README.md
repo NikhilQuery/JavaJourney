@@ -39,12 +39,16 @@ This is the central hub where I document my complete journey of mastering **Java
 - **2D Array Practice:** Created `MatrixAddition.java` to perform element-wise addition of two-dimensional matrices using nested loops.
 - **Array Manipulation:** Developed `ArrayReverse.java` to invert elements in-place using an efficient two-pointer swapping algorithm
 
-### 📑 Chapter 7: Methods in Java *(Latest Update!)*
+### 📑 Chapter 7: Methods in Java 
 * **Modular Logic:** Created `SmartCalculator.java` to isolate individual arithmetic behaviors into separate instance methods.
 * **Menu-Driven Design:** Implemented a runtime execution menu using switch/if-else choices to call modular subroutines.
 * **Code Reusability:** Applied the DRY (Don't Repeat Yourself) principle to keep the main execution layer clean and decoupled.
 * **Advanced Logic Consolidation:** Engineered `UltimateCalculator.java` combining method overloading, variable arguments (VarArgs), recursion, and static memory allocations inside a single menu-driven platform.
 * **Method Practice Set (`MethodPracticeSet.java`):** Solved 5 core problems covering multiplication tables, nested-loop star patterns, and recursive Fibonacci/summation logic.
+
+### 🏢 Chapter 8: Object-Oriented Programming *(Latest Update!)*
+* **Custom Class Basics (`CustomClassPractice.java`):** Formulated a blueprint `Employee` class and instantiated multiple heap-allocated objects to manage distinct state identities.
+
 
 --------------------------------------------------------------------------------------------
 
