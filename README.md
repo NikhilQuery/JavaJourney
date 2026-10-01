@@ -48,7 +48,7 @@ This is the central hub where I document my complete journey of mastering **Java
 
 ### 🏢 Chapter 8: Object-Oriented Programming *(Latest Update!)*
 * **Custom Class Basics (`CustomClassPractice.java`):** Formulated a blueprint `Employee` class and instantiated multiple heap-allocated objects to manage distinct state identities.
-
+* **OOPs Practice Set (`OopsPracticeSet.java`):** This repository contains basic Java programs practicing Classes and Objects concepts. It includes simple implementations of real-world entities like Employee, Cellphone, Square, Rectangle, and Game Characters.
 
 --------------------------------------------------------------------------------------------
 
