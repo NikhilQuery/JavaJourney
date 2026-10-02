@@ -46,9 +46,14 @@ This is the central hub where I document my complete journey of mastering **Java
 * **Advanced Logic Consolidation:** Engineered `UltimateCalculator.java` combining method overloading, variable arguments (VarArgs), recursion, and static memory allocations inside a single menu-driven platform.
 * **Method Practice Set (`MethodPracticeSet.java`):** Solved 5 core problems covering multiplication tables, nested-loop star patterns, and recursive Fibonacci/summation logic.
 
-### 🏢 Chapter 8: Object-Oriented Programming *(Latest Update!)*
+### 🏢 Chapter 8: Object-Oriented Programming 
 * **Custom Class Basics (`CustomClassPractice.java`):** Formulated a blueprint `Employee` class and instantiated multiple heap-allocated objects to manage distinct state identities.
 * **OOPs Practice Set (`OopsPracticeSet.java`):** This repository contains basic Java programs practicing Classes and Objects concepts. It includes simple implementations of real-world entities like Employee, Cellphone, Square, Rectangle, and Game Characters.
+### 🔑 Chapter 9: Access Modifiers & Constructors *(Latest Update!)*
+* **Encapsulation & Data Hiding:** Implemented `private` fields to protect sensitive member variables from unauthorized external mutations.
+* **Constructor Overloading (`ConstructorDemo.java`):** Designed both default and parameterized constructors within the `OurStudent` class to enable efficient, single-line object state initialization upon instantiation.
+
+
 
 --------------------------------------------------------------------------------------------
 
