@@ -51,7 +51,11 @@ This is the central hub where I document my complete journey of mastering **Java
 * **OOPs Practice Set (`OopsPracticeSet.java`):** This repository contains basic Java programs practicing Classes and Objects concepts. It includes simple implementations of real-world entities like Employee, Cellphone, Square, Rectangle, and Game Characters.
 ### 🔑 Chapter 9: Access Modifiers & Constructors *(Latest Update!)*
 * **Encapsulation & Data Hiding:** Implemented `private` fields to protect sensitive member variables from unauthorized external mutations.
+
 * **Constructor Overloading (`ConstructorDemo.java`):** Designed both default and parameterized constructors within the `OurStudent` class to enable efficient, single-line object state initialization upon instantiation.
+
+* **Cylinder Geometry Calculator(`CylinderGeometry.java`):**This program implements a `Cylinder` class to calculate its **Volume** (\(\pi r^2h\)) and **Total Surface Area** (\(2\pi r(r+h)\)). It demonstrates the strict practical application of **Encapsulation** using private variables with public getters and setters.
+
 
 
 
