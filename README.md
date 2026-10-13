@@ -49,13 +49,16 @@ This is the central hub where I document my complete journey of mastering **Java
 ### 🏢 Chapter 8: Object-Oriented Programming 
 * **Custom Class Basics (`CustomClassPractice.java`):** Formulated a blueprint `Employee` class and instantiated multiple heap-allocated objects to manage distinct state identities.
 * **OOPs Practice Set (`OopsPracticeSet.java`):** This repository contains basic Java programs practicing Classes and Objects concepts. It includes simple implementations of real-world entities like Employee, Cellphone, Square, Rectangle, and Game Characters.
-### 🔑 Chapter 9: Access Modifiers & Constructors *(Latest Update!)*
+
+### 🔑 Chapter 9: Access Modifiers & Constructors 
 * **Encapsulation & Data Hiding:** Implemented `private` fields to protect sensitive member variables from unauthorized external mutations.
 
 * **Constructor Overloading (`ConstructorDemo.java`):** Designed both default and parameterized constructors within the `OurStudent` class to enable efficient, single-line object state initialization upon instantiation.
 
 * **Cylinder Geometry Calculator(`CylinderGeometry.java`):**This program implements a `Cylinder` class to calculate its **Volume** (\(\pi r^2h\)) and **Total Surface Area** (\(2\pi r(r+h)\)). It demonstrates the strict practical application of **Encapsulation** using private variables with public getters and setters.
 
+### 🧬 Chapter 10: Inheritance *(Latest Update!)*
+* **Single Inheritance Blueprint (`InheritanceDemo.java`):** Mastered the structural application of the `extends` keyword. Engineered a system where a `Derived` class seamlessly inherits state behaviors and memory attributes from a `Base` class contract without explicit code repetition.
 
 
 
