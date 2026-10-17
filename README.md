@@ -60,6 +60,7 @@ This is the central hub where I document my complete journey of mastering **Java
 ### 🧬 Chapter 10: Inheritance *(Latest Update!)*
 * **Single Inheritance Blueprint (`InheritanceDemo.java`):** Mastered the structural application of the `extends` keyword. Engineered a system where a `Derived` class seamlessly inherits state behaviors and memory attributes from a `Base` class contract without explicit code repetition.
 * **Constructor Chaining & Multi-Level Inheritance (`InheritanceDemo1.java`):** Engineered a 3-tier deep object lifecycle structure. Mastered the hierarchical application of the `super` keyword to orchestrate seamless upstream parameter execution inside cascading overloaded constructors.
+* **This and Super Reference Keys (`ThisAndSuperDemo.java`):** Analyzed the functional distinction between `this` (referencing the current object instance) and `super` (delegating parameters directly to the parent class constructor).
 
 --------------------------------------------------------------------------------------------
 
