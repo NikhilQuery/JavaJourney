@@ -62,6 +62,7 @@ This is the central hub where I document my complete journey of mastering **Java
 * **Method Overriding (`MethodOverridingDemo.java`):** Explored runtime polymorphism using the `@Override` annotation, allowing a sub-class method to completely redefine behaviors defined by its parent class.
 * **Dynamic Method Dispatch (`DynamicMethodDispatch.java`):** Mastered Runtime Polymorphism by assigning a sub-class object to a super-class reference variable, verifying that overridden methods resolve dynamically at execution time.
 
+* **GuessingGame Engine (`GuessingGame.java`):** Built a fully encapsulated random number estimation game utilizing custom state tracking. Features secure recursive type-validation inputs via the `Scanner` buffer and automated evaluation triggers.
 
 --------------------------------------------------------------------------------------------
 
