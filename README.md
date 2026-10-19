@@ -60,6 +60,8 @@ This is the central hub where I document my complete journey of mastering **Java
 * **Constructor Chaining & Multi-Level Inheritance (`InheritanceDemo1.java`):** Engineered a 3-tier deep object lifecycle structure. Mastered the hierarchical application of the `super` keyword to orchestrate seamless upstream parameter execution inside cascading overloaded constructors.
 * **This and Super Reference Keys (`ThisAndSuperDemo.java`):** Analyzed the functional distinction between `this` (referencing the current object instance) and `super` (delegating parameters directly to the parent class constructor).
 * **Method Overriding (`MethodOverridingDemo.java`):** Explored runtime polymorphism using the `@Override` annotation, allowing a sub-class method to completely redefine behaviors defined by its parent class.
+* **Dynamic Method Dispatch (`DynamicMethodDispatch.java`):** Mastered Runtime Polymorphism by assigning a sub-class object to a super-class reference variable, verifying that overridden methods resolve dynamically at execution time.
+
 
 --------------------------------------------------------------------------------------------
 
