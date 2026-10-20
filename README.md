@@ -64,6 +64,8 @@ This is the central hub where I document my complete journey of mastering **Java
 
 * **GuessingGame Engine (`GuessingGame.java`):** Built a fully encapsulated random number estimation game utilizing custom state tracking. Features secure recursive type-validation inputs via the `Scanner` buffer and automated evaluation triggers.
 
+* **Hierarchical Geometric Blueprints (`GeometryDemo.java`):** Completed the comprehensive Chapter 10 practice set by structuring parent-child cascading modules (`Circle` to `Cylinder` and `Rectangle` to `Cuboid`). Validated upstream constructor propagation and multidimensional mathematical boundary parsing.
+
 --------------------------------------------------------------------------------------------
 
 *“Consistency is the key. Let's build the future, one clean commit at a time!”* 
