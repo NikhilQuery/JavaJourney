@@ -66,6 +66,9 @@ This is the central hub where I document my complete journey of mastering **Java
 
 * **Hierarchical Geometric Blueprints (`GeometryDemo.java`):** Completed the comprehensive Chapter 10 practice set by structuring parent-child cascading modules (`Circle` to `Cylinder` and `Rectangle` to `Cuboid`). Validated upstream constructor propagation and multidimensional mathematical boundary parsing.
 
+### 🏗️ Chapter 11: Abstract Classes & Interfaces *(New Entry!)*
+* **Abstract Class Blueprints (`AbstractDemo.java`):** Initiated Chapter 11 by designing partial abstraction layers. Formulated strict class contracts using `abstract` method tokens, verifying upstream constructor cascading loops and contract enforcement on downstream subclasses.
+
 --------------------------------------------------------------------------------------------
 
 *“Consistency is the key. Let's build the future, one clean commit at a time!”* 
