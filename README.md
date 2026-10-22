@@ -68,6 +68,7 @@ This is the central hub where I document my complete journey of mastering **Java
 
 ### 🏗️ Chapter 11: Abstract Classes & Interfaces *(New Entry!)*
 * **Abstract Class Blueprints (`AbstractDemo.java`):** Initiated Chapter 11 by designing partial abstraction layers. Formulated strict class contracts using `abstract` method tokens, verifying upstream constructor cascading loops and contract enforcement on downstream subclasses.
+* **Multiple Interfaces Blueprint (`InterfaceDemo.java`):** Successfully bypassed Java's single inheritance limitation by implementing multiple abstract contracts (`Vehicle` and `HornSystem`) within a single concrete class layout, managing isolated interface constants.
 
 --------------------------------------------------------------------------------------------
 
