@@ -1,3 +1,4 @@
+package Arrays_and_Methods;
 public class Method_practice_Set {
 
     // Question 1: Multiplication table

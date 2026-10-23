@@ -1,3 +1,4 @@
+package Arrays_and_Methods;
 public class MatrixAddition {
     public static void main(String[] args) {
         int [][] mat1 = {{1,2,3},

@@ -1,3 +1,4 @@
+package Oops_Concepts;
 // 1. Interface defining basic vehicle functionalities
 interface Vehicle {
     int SPEED_LIMIT = 45; // Implicitly public, static, and final

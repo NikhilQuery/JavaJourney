@@ -1,3 +1,4 @@
+package Java_Basics;
 import java.util.Scanner;
 public class  UltimateCalculator {
     public static void welcomemessage(){

@@ -1,3 +1,4 @@
+package Oops_Concepts;
 interface MyCamera {
     void takeSnap();
     void recordVideo();
