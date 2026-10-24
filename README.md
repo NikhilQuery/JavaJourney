@@ -9,16 +9,25 @@ Welcome to my repository! This is the central hub where I document my complete j
 ## 📁 Repository Blueprint
 
 Click on any module folder below to view its specific files, code documentation, and key takeaways:
+# 🚀 BCA Java Backend Journey
 
-| Module / Package Folder | Core Topics Covered | Specific Documentation |
-| :--- | :--- | :--- |
-| 📁 [Java_Basics](./Java_Basics/) | Variables, Data Types, Conditionals, Loops, & Basic Calculators. | [View Basics Docs](./Java_Basics/README.md) |
+Welcome to my repository! This is the central hub where I document my complete journey of mastering **Java** to build a rock-solid foundation for **Backend Development**.
 
-| 📁 [Arrays_and_Methods](./Arrays_and_Methods/) | Matrix Math, Array Parsing, Methods, & Core Practice Sets. | [View Methods Docs](./Arrays_and_Methods/README.md) |
+## 🎯 Career Goals
+1. Graduate from BCA with a deep grasp of backend logic and software engineering principles.
+2. Become a highly skilled **Java Backend Developer** and build scalable enterprise applications.
 
-| 📁 [Oops_Concepts](./Oops_Concepts/) | Encapsulation, Inheritance, Polymorphism, & Abstraction Interfaces. | [View OOPs Docs](./Oops_Concepts/README.md) |
+* 📁 **[Java Basics](./Java_Basics/)**
+  Variables, Data Types, Conditionals, Loops, & Basic Calculators.
 
-| 📁 [Projects_and_Engines](./Projects_and_Engines/) | Menu-driven CLI Engines, Custom Automation, & Mini-Games. | [View Projects Docs](./Projects_and_Engines/README.md) |
+* 📁 **[Arrays and Methods](./Arrays_and_Methods/)**
+  Matrix Math, Array Parsing, Methods, & Core Practice Sets.
+
+* 📁 **[Oops Concepts](./Oops_Concepts/)**
+  Encapsulation, Inheritance, Polymorphism, & Abstraction Interfaces.
+
+* 📁 **[Projects and Engines](./Projects_and_Engines/)**
+  Menu-driven CLI Engines, Custom Automation, & Mini-Games.
 
 ----------------------------------------------------------------------------------------------------------------
 
