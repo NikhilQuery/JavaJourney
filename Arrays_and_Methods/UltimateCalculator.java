@@ -1,4 +1,4 @@
-package Java_Basics;
+package Arrays_and_Methods;
 import java.util.Scanner;
 public class  UltimateCalculator {
     public static void welcomemessage(){
