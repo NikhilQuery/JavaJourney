@@ -13,3 +13,5 @@ This folder highlights dynamic loop controls and encapsulated business logic app
 ### 🎲 Chapter 10 Supplement
 
 * **GuessingGame Engine (`GuessingGame.java`):** Built a fully encapsulated random number estimation game utilizing custom state tracking. Features secure recursive type-validation inputs via the `Scanner` buffer and automated evaluation triggers.
+
+* **`LibraryManagementSystem.java`**: Library Management System Exercise - Implements an encapsulated tracking system utilizing a bounded static array string buffer. Showcases item tracking mechanics using lazy deletion (`null` flags allocation) and structural linear index lookups.

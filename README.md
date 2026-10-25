@@ -9,13 +9,6 @@ Welcome to my repository! This is the central hub where I document my complete j
 ## 📁 Repository Blueprint
 
 Click on any module folder below to view its specific files, code documentation, and key takeaways:
-# 🚀 BCA Java Backend Journey
-
-Welcome to my repository! This is the central hub where I document my complete journey of mastering **Java** to build a rock-solid foundation for **Backend Development**.
-
-## 🎯 Career Goals
-1. Graduate from BCA with a deep grasp of backend logic and software engineering principles.
-2. Become a highly skilled **Java Backend Developer** and build scalable enterprise applications.
 
 * 📁 **[Java Basics](./Java_Basics/)**
   Variables, Data Types, Conditionals, Loops, & Basic Calculators.
