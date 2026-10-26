@@ -2,7 +2,6 @@ package Oops_Concepts;
 // --- CIRCLE MODULE ---
 class Circle {
     public int radius;
-
     // Constructor
     Circle(int r) {
         System.out.println("-> Circle initialized with radius: " + r);
