@@ -15,3 +15,13 @@ This folder highlights dynamic loop controls and encapsulated business logic app
 * **GuessingGame Engine (`GuessingGame.java`):** Built a fully encapsulated random number estimation game utilizing custom state tracking. Features secure recursive type-validation inputs via the `Scanner` buffer and automated evaluation triggers.
 
 * **`LibraryManagementSystem.java`**: Library Management System Exercise - Implements an encapsulated tracking system utilizing a bounded static array string buffer. Showcases item tracking mechanics using lazy deletion (`null` flags allocation) and structural linear index lookups.
+
+# Metro Ride-Sharing System 🚗
+
+A console-based Java application that simulates the backend workflow of cab-hailing services like Uber/Ola. 
+
+### Key Highlights of Metro Ride-Sharing System 
+* **OOPs-Driven Design:** Built completely using Core Java principles including Abstraction, Inheritance, Polymorphism, and Encapsulation.
+* **Smart Fare Engine:** Calculates real-time ride pricing dynamically based on distance and vehicle categories (Standard vs. Premium).
+* **Feature Composition:** Implements independent interface structures to deploy live GPS tracking logs exclusively for luxury fleets.
+* **Interactive UI:** Provides a clean CLI workflow complete with robust user input handling, active process logging, and graceful system shutdowns.
