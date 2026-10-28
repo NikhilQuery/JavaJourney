@@ -25,3 +25,11 @@ A console-based Java application that simulates the backend workflow of cab-hail
 * **Smart Fare Engine:** Calculates real-time ride pricing dynamically based on distance and vehicle categories (Standard vs. Premium).
 * **Feature Composition:** Implements independent interface structures to deploy live GPS tracking logs exclusively for luxury fleets.
 * **Interactive UI:** Provides a clean CLI workflow complete with robust user input handling, active process logging, and graceful system shutdowns.
+
+# Java Word & Character Counter 📝
+
+A simple console application built in Java to practice String manipulation. It takes user input and calculates total words, characters with spaces, and characters without spaces.
+
+### Concepts Used in Java Word & Character Counter:
+* `String` methods (`.split()`, `.trim()`, `.replace()`)
+* `Scanner` class for dynamic user input
