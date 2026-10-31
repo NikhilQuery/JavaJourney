@@ -29,3 +29,6 @@ A simple console application built in Java to practice String manipulation. It t
 
 # Player Performance System
 A console-based Java application that calculates a player's total runs across 3 matches and rates their performance. This project is built completely from scratch using core Java concepts like Object-Oriented Programming (OOPs), Inheritance, Arrays, and Interfaces.
+
+# StockMaster System
+A minimal console-based Java application designed to monitor stock levels and automate expiration alerts. This project is built entirely from scratch using fundamental OOP concepts, inheritance, and interfaces.
