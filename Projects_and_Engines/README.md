@@ -32,3 +32,6 @@ A console-based Java application that calculates a player's total runs across 3 
 
 # StockMaster System
 A minimal console-based Java application designed to monitor stock levels and automate expiration alerts. This project is built entirely from scratch using fundamental OOP concepts, inheritance, and interfaces.
+
+# Smart Expense Tracker & Bill Splitter
+A console-based Java application built using core OOPs principles and Arrays to manage personal daily expenses efficiently. It allows users to track their spending by categories and quickly split restaurant or travel bills evenly among a custom number of friends.
