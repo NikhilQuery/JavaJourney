@@ -35,3 +35,6 @@ A minimal console-based Java application designed to monitor stock levels and au
 
 # Smart Expense Tracker & Bill Splitter
 A console-based Java application built using core OOPs principles and Arrays to manage personal daily expenses efficiently. It allows users to track their spending by categories and quickly split restaurant or travel bills evenly among a custom number of friends.
+
+# Interactive Crypto Wallet
+A Java console application demonstrating Object-Oriented Programming (OOP) concepts like Inheritance, Encapsulation, and Polymorphism through a secure cryptocurrency transaction system with live terminal input.
