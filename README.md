@@ -22,6 +22,9 @@ Click on any module folder below to view its specific files, code documentation,
 * 📁 **[Projects and Engines](./Projects_and_Engines/)**
   Menu-driven CLI Engines, Custom Automation, & Mini-Games.
 
-----------------------------------------------------------------------------------------------------------------
+* 📁 **[LeetCode & DSA Problems](./LeetCode_DSA/)**
+| Daily problem-solving practice separated by Easy, Medium, and Hard challenges.
+
+---------------------------------------------------------------------------------------------------------------
 
 *"Consistency is the key. Let's build the future, one clean commit at a time!"*
