@@ -28,6 +28,8 @@ Problems are categorized into specific sub-directories based on their difficulty
 | :-: | :--- | :--- | :--- | :-: |
 | 1 | [1. Two Sum](https://leetcode.com) | Arrays, Loops | Utilized a Brute Force approach with nested loops to check combinations for the target sum. | [📂 Code](./Easy/TwoSum.java) |
 
+| 9 | [9. Palindrome Number](https://leetcode.com) | Math, Loops | Reversed the integer digits dynamically using a while loop and modulo operator. | [📂 Code](./Easy/PalindromeNumber.java) |
+
 ### 🟡 Medium Problems
 * ⏳ Solutions coming soon...
 
