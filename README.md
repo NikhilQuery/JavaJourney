@@ -27,4 +27,4 @@ Click on any module folder below to view its specific files, code documentation,
 
 ---------------------------------------------------------------------------------------------------------------
 
-*"Consistency is the key. Let's build the future, one clean commit at a time!"*
+*"Consistency is the key. Let's build the future, one clean commit at a time!"* 
