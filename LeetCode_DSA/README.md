@@ -30,6 +30,9 @@ Problems are categorized into specific sub-directories based on their difficulty
 
 | 9 | [9. Palindrome Number](https://leetcode.com) | Math, Loops | Reversed the integer digits dynamically using a while loop and modulo operator. | [📂 Code](./Easy/PalindromeNumber.java) |
 
+
+| 412 | [412. Fizz Buzz](https://leetcode.com) | Arrays, Loops | Converted numbers to string via the `+ ""` shortcut and matched the return type with `Arrays.asList()`. | [📁 Code](./Easy/fizzBuzz.java) |
+
 ### 🟡 Medium Problems
 * ⏳ Solutions coming soon...
 
